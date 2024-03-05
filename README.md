@@ -64,21 +64,15 @@ documents to be used as a support tool.
 
 ## Education
 
-### Veermata Jijabai Technology Institute — B. Tech Electronics 
-*August 2015 - May 2018*
-- ***7.73 CGPA***
-- Enrollment Number: 150163116013
-- While Pursuing last year, I completed ***2 internships*** in Python and Flask.
 
-### Sanjaybhai Rajguru College of Engg., Rajkot — Diploma in IT
-*May 2005 - May 2009*
+### Veermata Jijabai Technology Institute,Mumbai — B. Tech Electronics 
 - ***6.20 CGPA***
 
 ## Certifications:
 
 <p>
-    <a href="https://www.credly.com/badges/5ba4969a-50e2-479c-8cb3-1f248de6e007/"" target="_blank">
-        <img alt="CKA"
-             src="https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/"/>
+    <a href="https://www.cncf.io/training/certification/cka/">Certified Kubernetes Administrator</a>
+    <a href="https://www.credly.com/badges/5ba4969a-50e2-479c-8cb3-1f248de6e007/" target="_blank">
+        <img alt="CKA" src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-cka-color.svg"/>
     </a>
 </p>
