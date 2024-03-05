@@ -34,3 +34,50 @@ Working in American Tractor Company where I am leading Platform Engineering team
 - Collabarating with domain team to stenghten their developer experience through GitHub Actions, Terraform and Helm Automation
 - Leading efforts on Disaster Recovery, Self Service and remediation portals using Spotify's Backstage 
 - Keeping lean observability platform with Datadog , Cloudwatch, Grafana, Prometheus stack.
+
+### Enterprise Minds, — Tech Architect
+*Aug 2021 - May 2024*
+
+Designed Customer DevOps transformation and enable new cloud architecture and
+guidelines, and enable Microservices delivery.
+- Enabled Kubernetes scaffolding using helm and cookie-cutter for boilerplate code on Go, Python, Spring boot Language Stacks.
+- Designed Terraform-Ansible based pipeline for Front-End centric project (Vue,Next, React, Vite, etc.) using Jenkins
+- Taken part in active discussion around Cost Management, Cluster Upgrades for K8s platform
+- Experience in Managed Saas Platform such as Elastic Search, Confluent Kafka,Mongo Atlas, Redis Enterprise, Retool, Mix panel, etc.
+- Actively Supported AWS EKS and GCP GKE clusters and worked with Datateam on their application stack support.
+- Worked on Jenkins Migration/Upgrades, Shared pipeline library, Groovy Pipelines, Jenkins slave pod-templates, custom functions
+- Worked on Kubernetes CICD with use of Jenkins and Spinnaker
+- JFrog Solution testing using pytest,allure, application benchmarking for docker pull, push, etc. E2E testing
+- Implemented Git-LFS for Mono repo, large codebase
+- Presented talk on JFrog Companywide.
+
+
+### Zymr Inc  -- Software Architect,DevOps
+*March 2019 - July 2020*
+Accurately noted all project processes and changes and assembled into cohesive
+documents to be used as a support tool.
+- Procurement of Kubernetes for Migrating workloads from Docker-compose
+- Automation of Cluster Creation and deployment using Bash Script using Dialog workflow and Terraform
+- Used Helm Charts as stateful sets for databases, NFS, ingress controller.
+- Used tools like Rancher, Flagger, App mesh, Istio and Charmed Kubernetes for in-house PoC
+
+
+## Education
+
+### Veermata Jijabai Technology Institute — B. Tech Electronics 
+*August 2015 - May 2018*
+- ***7.73 CGPA***
+- Enrollment Number: 150163116013
+- While Pursuing last year, I completed ***2 internships*** in Python and Flask.
+
+### Sanjaybhai Rajguru College of Engg., Rajkot — Diploma in IT
+*May 2005 - May 2009*
+- ***6.20 CGPA***
+
+## Certifications:
+
+<p>
+    <a href="https://www.credly.com/badges/5ba4969a-50e2-479c-8cb3-1f248de6e007/" target="_blank">
+        <img alt="CKA" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"/>
+    </a>
+</p>
