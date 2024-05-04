@@ -30,7 +30,7 @@ My interests range from technology to entrepreneurship. In my downtime I explore
 
 Working in American Tractor Company where I am leading Platform Engineering team.
 - Working on AWS Based Platform with mixed bag of Monolithic and Microservices architecture
-- Soliutioning Disaster Recovery and Ransomware attack scenarious to maintain security posture.
+- Solutioning Disaster Recovery and Ransomware attack scenarious to maintain security posture.
 - Mentoring team members about clean architecture patterns and Kubernetes Platform
 - Collabarating with domain team to stenghten their developer experience through GitHub Actions, Terraform and Helm Automation
 - Leading efforts on Disaster Recovery, Self Service and remediation portals using Spotify's Backstage 
