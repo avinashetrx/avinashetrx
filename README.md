@@ -1,3 +1,7 @@
+https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white
+https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white
+https://img.shields.io/badge/ArgoCD-FE7A16?logo=argo&logoColor=white
+
 # Avinash R Patil
 **Cloud-Native Consultant | Kubernetes Platform Architect | CKA & CKS Certified**
 
@@ -92,6 +96,14 @@ My work focuses on simplifying platform operations, improving reliability, and h
 - Implemented Istio & AWS App Mesh for microservice security and traffic management.
 
 ---
+
+
+## Consulting Portfolio (Selected Work)
+- Kubernetes Platform Architecture – Multi-cloud (AWS + GCP)
+- Istio/Gloo Mesh deployment for enterprise service mesh
+- Argo CD GitOps rollout across 4 environments
+- 63% incident auto-remediation engine
+- Cloud cost optimization (43% AWS, 57% GCP)
 
 ## 🧪 Technical Projects
 
