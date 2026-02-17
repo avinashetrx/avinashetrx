@@ -1,9 +1,55 @@
-https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white
-https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white
-https://img.shields.io/badge/ArgoCD-FE7A16?logo=argo&logoColor=white
 
 # Avinash R Patil
 **Cloud-Native Consultant | Kubernetes Platform Architect | CKA & CKS Certified**
+
+<p>
+  <a href="mailto:patilavinashr@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/avinash-patil-85415330/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/avinashetrx" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CKA-Certified Kubernetes Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CKS-Kubernetes Security Specialist-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EKS-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GKE-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AKS-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-FE7A16?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitOps-5C2D91?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gloo%20Mesh-00AEEF?style=for-the-badge&logo=solo.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
+
 
 I am a Cloud-Native Consultant with 15+ years of experience building scalable Kubernetes platforms, cloud infrastructure, GitOps pipelines, and DevSecOps automation across AWS, GCP, and hybrid environments. I specialize in platform engineering, service mesh, cluster lifecycle automation, and secure multi-cloud architectures.
 
@@ -42,21 +88,6 @@ My work focuses on simplifying platform operations, improving reliability, and h
 - RAG‑based anomaly detection and auto-healing systems  
 - Automation using Python, Bash, Ruby  
 - Platform-level self‑service tooling and remediation workflows  
-
----
-
-## 🔗 Contact & Social
-
-<p>
-  <a href="mailto:patilavinashr@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="httpsg.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-  </a>
-  https://github.com/avinashetrx
-    https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white
-  </a>
-</p>
 
 ---
 
